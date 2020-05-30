@@ -23,9 +23,9 @@ Steps:
 ### Main code
 
 Run the code with the default settings.
-'''
+```
 python main.py
-'''
+```
 
 The defaults settings are:
 * the query is “dogs”
@@ -36,6 +36,6 @@ The defaults settings are:
 You can change each default parameter.
 
 For more information, run
-'''
+```
 python main.py --help
-'''
+```
